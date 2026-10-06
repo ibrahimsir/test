@@ -31,3 +31,6 @@ bağlıdır; bu rapor SMART testi veya kapsamlı bir sürücü envanteri değild
 ```powershell
 .\.venv\Scripts\python.exe -m unittest discover
 ```
+
+
+kjhkhkhk
