@@ -6,6 +6,7 @@ from collections.abc import Mapping
 from typing import Any
 
 
+
 POWERSHELL_SCRIPT = r"""
 $ErrorActionPreference = 'Stop'
 [Console]::OutputEncoding = New-Object System.Text.UTF8Encoding
